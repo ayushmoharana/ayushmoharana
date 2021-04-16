@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushmoharana
 - 👀 I’m interested in Observational Stellar Astronomy of Low Mass Stars.
 - 🌱 I’m currently working as a PhD in the Solaris Stellar Astronomy group led by Prof. Maciej Konacki. 
-- I am supervised by Prof. Krzystof Hełminiak.
+  I am supervised by Prof. Krzystof Hełminiak.
 - 💞️ I’m looking to collaborate on observations and simulations of Eclipsing Binaries in Triple Systems.
 - 📫 How to reach me : ayushm@ncac.torun.pl
 
