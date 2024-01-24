@@ -3,6 +3,7 @@
 - I’m currently working as a PhD in the Solaris Stellar Astronomy group led by Prof. Maciej Konacki. 
   I am supervised by Prof. Krzystof Hełminiak.
 - I’m looking to collaborate on observations and simulations of Eclipsing Binaries in Triple Systems.
+- https://ayushmoharana24.wixsite.com/mysite
 - 📫 ayushm@ncac.torun.pl
 
 <!---
