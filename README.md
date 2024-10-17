@@ -1,10 +1,9 @@
 - Hi, I’m @ayushmoharana
-- I’m interested in science of Low Mass Stars.
-- I’m currently working as a PhD in the Solaris Stellar Astronomy group led by Prof. Maciej Konacki. 
-  I am supervised by Prof. Krzystof Hełminiak.
-- I’m looking to collaborate on observations and simulations of Eclipsing Binaries in Triple Systems.
+- I’m interested in science of multiple star systems.
+- I’m currently working as a Research Associate in the SWIPE Project (PI: J. Southworth). 
+- I’m looking to collaborate on observations and simulations of eclipsing binaries which are pulsators or are in triple systems.
 - https://ayushmoharana24.wixsite.com/mysite
-- 📫 ayushm@ncac.torun.pl
+- 📫 a.moharana@keele.ac.uk
 
 <!---
 ayushmoharana/ayushmoharana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
